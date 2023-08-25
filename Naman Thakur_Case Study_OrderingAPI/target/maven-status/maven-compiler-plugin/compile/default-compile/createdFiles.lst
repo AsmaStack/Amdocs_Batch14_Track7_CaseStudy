@@ -1,0 +1,8 @@
+com\amdocs\customers\repository\CustomerRepository.class
+com\amdocs\orders\model\Orders.class
+com\amdocs\orders\controller\OrderController.class
+com\amdocs\orders\OrderingApiApplication.class
+com\amdocs\customers\model\Customers.class
+com\amdocs\customers\service\CustomerService.class
+com\amdocs\orders\service\OrderService.class
+com\amdocs\orders\repository\OrderRepository.class
